@@ -12,4 +12,5 @@ Resumen del funcionamiento lógico: Al momento de iniciar el programa uno debe i
 
 Lamentablemente el código está muy desordenado (desde ya pido disculpas a lo que verán sus ojos), un síntoma del querer abarcar demasiado y tener que terminar cortando esquinas a último momento.
 
-Nota: en caso de que salga seleccionada la categoría "deportes" el sistema crashea. Por temas de tiempo no alcanzé a arreglar este bug.
+Nota: en caso de que salga seleccionada la categoría "deportes" el sistema crashea. Por temas de tiempo no alcanzé a arreglar este bug. CAMBIO DESDE BRANCH 1
+
